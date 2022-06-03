@@ -1,3 +1,1 @@
-public class Converter {
-...//тело метода
-}
+Converter
